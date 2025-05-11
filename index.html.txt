@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Shape Generator</title>
+</head>
+<body>
+    <h1>Shape Generator</h1>
+    <button id="inputButton">Enter a Number</button>
+    <div id="output"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
